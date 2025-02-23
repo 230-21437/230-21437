@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kim Ngọc Sơn
 - MSV:23021437
 - 🌱 I’m currently learning LTNC-2215 8
-- 📫 How to reach me:email-kson9398@gmail.com
+- 📫 How to reach me:kson9398@gmail.com
 
 
 <!---
